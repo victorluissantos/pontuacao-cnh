@@ -1,0 +1,30 @@
+{
+	"description": "Consulta pontucao CNH de forma recorrente",
+	"name": "Pontuacao CNH",
+	"type": "project",
+	"authors": [
+		{
+			"name": "Victor L. Santos",
+			"role": "Development"
+		}
+	],
+	"homepage": "https://pontuacaocnh.com.br",
+	"require-dev": {
+		"twbs/bootstrap": "4.1.1",
+		"components/jquery": "3.2.1",
+		"font-awesome": "*"
+	},
+	"repositories": [
+		{
+			"type": "package",
+			"package": {
+				"name": "font-awesome",
+				"version": "4.7.0",
+				"dist": {
+					"url": "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+					"type": "file"
+				}
+			}
+		}
+	]
+}
