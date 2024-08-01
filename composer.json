@@ -10,7 +10,7 @@
 	],
 	"homepage": "https://pontuacaocnh.com.br",
 	"require-dev": {
-		"twbs/bootstrap": "4.1.1",
+		"twbs/bootstrap": "4.3.1",
 		"components/jquery": "3.2.1",
 		"font-awesome": "*"
 	},
